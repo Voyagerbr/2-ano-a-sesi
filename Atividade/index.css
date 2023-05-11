@@ -1,0 +1,16 @@
+#cabeçalho2{color: rgb(0, 0, 0);
+}
+
+body{background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Gpa9YigBa4oDxCodcV5ts5PRKyFfNSmlhhfPeT4DSAGGphI6SbqmRKnDS93o01pTLOJmYPFBhhiDsbjMGkuGEVN2cpS-SGsVoW-UA0IjbGAg_yGeg6cGmWJqSpY2QkwrwCM9IRbC0ebzOTZz2xaprucBGKm6CVwD2IApfR2zl1wCQPsrYsrVOTN0TQ/s1920/30042022-v2-MINIMALIST-LANDSCAPE.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: rgb(27, 82, 235);
+}
+header{
+    font-style: monospace;
+    border-radius: 3em;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0, 0.2);
+    background-color: aliceblue;
+}
